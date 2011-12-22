@@ -1,0 +1,13 @@
+# Ads
+strip_id_or_class: advert-space
+
+# Read more, recommend, comments etc
+strip_id_or_class: fbc-recommend
+strip_id_or_class: article-readers
+strip_id_or_class: hook
+strip_id_or_class: right
+
+# Other news
+strip: //div[@id="mirrors"]
+
+test_url: http://www.dn.se/sthlm/helikopterranare-stalls-infor-ratta-1.1146950

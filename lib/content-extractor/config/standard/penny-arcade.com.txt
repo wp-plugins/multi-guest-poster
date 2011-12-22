@@ -1,0 +1,5 @@
+title: //div[@class="postheader"]/h1
+body: //div[@class="body"]
+strip_id_or_class: header
+
+test_url: http://www.penny-arcade.com/2010/12/1/ha/

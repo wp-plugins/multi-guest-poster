@@ -1,0 +1,4 @@
+title: //div[@id='artikelHeader']/h1
+
+body: //div[@class='artikelBody']
+test_url: http://derstandard.at/1293370281210/Die-Saat-des-Hasses-geht-auf

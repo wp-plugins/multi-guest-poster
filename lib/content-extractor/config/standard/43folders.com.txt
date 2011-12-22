@@ -1,0 +1,3 @@
+body: //td[@id='column1']
+strip: //div[@id='content-bottom']
+test_url: http://www.43folders.com/2011/04/22/cranking

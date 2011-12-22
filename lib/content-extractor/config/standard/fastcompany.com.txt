@@ -1,0 +1,9 @@
+title: //h2[@id="hdr_article-headline"]
+
+body: //div[@class="node article"]
+
+# strip headline from body to avoid duplicate text
+strip: //h2[@id="hdr_article-headline"]
+
+strip: //span[@class="timestamp"]
+test_url: http://www.fastcompany.com/1701972/how-tynt-helps-online-publishers-figure-out-what-readers-are-really-interested-in

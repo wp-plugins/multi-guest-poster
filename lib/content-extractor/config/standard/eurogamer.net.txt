@@ -1,0 +1,6 @@
+body: //div[ @class='content' ]  |  //div[ @class='blog-entry' ]
+
+strip: //h2/abbr  |  //div[ @class='lowleader' ]  |  //*[ @class='discussion' ]  |  //img[ @class='play-button' ]  |  //div[ @class='boxout' ]
+
+
+test_url: http://www.eurogamer.net/articles/spies-lies-and-eve-online?page=3

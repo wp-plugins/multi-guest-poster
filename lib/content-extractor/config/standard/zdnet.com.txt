@@ -1,0 +1,2 @@
+strip: //*[@id="blog-author-info"]
+test_url: http://www.zdnet.com/blog/perlow/windows-phone-7-arriving-late-to-the-smartphone-buffet/14188

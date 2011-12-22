@@ -1,0 +1,8 @@
+strip: //div[@class="leadPix"]
+#strip: //span[@id="ctl00_SectionPath"]
+strip: //span[@id="ctl00_PageTitle"]
+strip: //div[@id="newsDetailTitle"]
+#strip: //div[@id="newsDetailAuthorPublish"]
+strip: //div[@id="newsDetailCredential"]
+strip: //div[@id="footer"]
+test_url: http://www.positioningmag.com/prnews/prnews.aspx?id=92092

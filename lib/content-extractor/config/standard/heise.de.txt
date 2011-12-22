@@ -1,0 +1,2 @@
+body: //div[@class='meldung_wrapper']
+test_url: http://www.heise.de/newsticker/meldung/Microsoft-bestaetigt-USB-Trojaner-Luecke-1039915.html

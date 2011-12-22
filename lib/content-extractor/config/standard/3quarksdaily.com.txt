@@ -1,0 +1,4 @@
+body: //div[@class='content']
+
+title: //div[@class='content']//h3
+test_url: http://www.3quarksdaily.com/3quarksdaily/2011/02/against-chrome-a-manifesto.html

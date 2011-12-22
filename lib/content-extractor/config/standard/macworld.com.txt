@@ -1,0 +1,11 @@
+# improves over previous rules by including only 'leftColumn' rather than excluding various other sections
+
+title: //div[@class='articleHead']//h1
+body: //div[@id='leftColumn']
+
+# remove 'From the Lab' and 'Recent posts' text
+strip: //div[@class='blogLabel']
+
+
+# this copes less well with Review pages, seems fine for News
+test_url: http://www.macworld.com/article/154596/2010/10/macbookair_benchmarks.html

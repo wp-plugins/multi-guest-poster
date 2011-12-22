@@ -1,0 +1,2 @@
+body: //div[@class='storycontent']
+test_url: http://seattletransitblog.com/2010/10/19/station-spacing-and-hindsight/

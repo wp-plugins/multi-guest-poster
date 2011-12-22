@@ -1,0 +1,9 @@
+# Remove featured box
+strip: //div[@id='featured-box']
+
+# Remove reply text
+strip: //div[@id='respond']
+
+# Remove share link
+strip: //a[contains(@href, 'facebook.com/share')]
+test_url: http://www.tipb.com/2010/10/21/plaintext-ipad-app-review/

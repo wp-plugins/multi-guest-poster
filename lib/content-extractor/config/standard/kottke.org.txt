@@ -1,0 +1,4 @@
+body: //div[@id='main']
+
+# tricky to keep the byline while removing the tags (both in 'meta' div), so remove it all
+test_url: http://kottke.org/10/12/randy-quaid-has-gone-nuts

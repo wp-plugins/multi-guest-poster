@@ -1,0 +1,11 @@
+title: //h1[@class='title']
+
+body: //*[@id='content']
+#could be just @id='articletext' but we want to keep author's bio
+strip_id_or_class: 'ishinfo'
+strip_id_or_class: 'metastuff'
+strip_id_or_class: 'learnmore'
+strip_id_or_class: 'discuss'
+
+prune: no
+test_url: http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/

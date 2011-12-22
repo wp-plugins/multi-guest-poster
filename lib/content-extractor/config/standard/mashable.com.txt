@@ -1,0 +1,2 @@
+body: //div[@class="description"]
+test_url: http://mashable.com/2011/02/11/4g-faq/

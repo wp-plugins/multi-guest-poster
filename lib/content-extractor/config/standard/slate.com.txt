@@ -1,0 +1,11 @@
+title: //h1[@class="subhead"]
+strip: //div[@class="department_kicker"]
+strip: //span[@class="dateline"]
+strip: //div[@id="insider_ad_wrapper"]
+strip: //div[@id="bottom_sponsored_links"]
+strip: //div[@id="page_rightcol"]
+strip_id_or_class: "_ad"
+single_page_link: //a[@id='ViewAsSinglePage']
+
+test_url: http://www.slate.com/id/2274583/pagenum/all/
+test_url: http://www.slate.com/id/2293116/

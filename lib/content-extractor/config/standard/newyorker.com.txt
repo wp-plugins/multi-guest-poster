@@ -1,0 +1,13 @@
+title: //h1[@id='articlehed']
+title: //div[@id='pagebody']//h3[@class='entry-title']
+body: //div[@id='articleRail']/div[@class='captionedphoto'] | //h2[@id='articleintro'] | //h4[@id='articleauthor'] | //div[@id='articletext']
+body: //div[@id='pagebody']//div[@class='published' or @class='byline' or @class='entry-content']
+
+strip: //ul[@id="bc"] | //div[@id="yrail"] | //div[@class="entry-keywords"] | //div[@class="entry-categories"] | //div[@class="socialUtils"] | //div[@id="footer"]
+
+prune: no
+
+single_page_link: //div[@class='paginationViewSinglePage']/a
+
+test_url: http://www.newyorker.com/online/blogs/newsdesk/2011/01/eric-schmidt-google.html?mbid=social_twitter
+test_url: http://www.newyorker.com/reporting/2011/04/25/110425fa_fact_bilger?currentPage=all

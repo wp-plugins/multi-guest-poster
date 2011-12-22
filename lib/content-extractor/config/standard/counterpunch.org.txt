@@ -1,0 +1,4 @@
+strip: //td[@width='140']
+strip_id_or_class: a2a_dd
+
+test_url: http://www.counterpunch.org/johnstone05172011.html

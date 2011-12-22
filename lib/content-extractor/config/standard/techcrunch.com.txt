@@ -1,0 +1,2 @@
+body: //div[@class="post single_post"]
+test_url: http://techcrunch.com/2011/03/09/readability-html5/

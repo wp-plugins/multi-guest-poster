@@ -1,0 +1,6 @@
+# Google Custom Search
+strip_id_or_class: google_branding_style
+
+# Avoid double title
+strip_id_or_class: pagetitle
+test_url: http://tvtropes.org/pmwiki/pmwiki.php/Main/AccidentalPublicConfession

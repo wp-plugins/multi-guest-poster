@@ -1,0 +1,4 @@
+title: //div[@id='article']/h1
+
+body: //div[@class='articletext']
+test_url: http://diepresse.com/home/panorama/religion/624484/Kirche-muss-eisern-sparen_Stopp-fuer-neues-Personal-?direct=624480&_vl_backlink=/home/index.do&selChannel=399

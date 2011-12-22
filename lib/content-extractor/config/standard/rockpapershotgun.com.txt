@@ -1,0 +1,4 @@
+title: //h2
+
+strip: //div[ contains(@class, 'respond') ]  |  //h2  |  //h1
+test_url: http://www.rockpapershotgun.com/2010/07/29/rps-half-verdict-starcraft-2/

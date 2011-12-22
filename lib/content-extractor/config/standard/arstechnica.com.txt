@@ -1,0 +1,3 @@
+# Remove double title
+strip: //h2[@class='title']
+test_url: http://arstechnica.com/gadgets/news/2011/01/the-evolution-of-computer-displaysthe-evolution-of-computer-displays.ars

@@ -1,0 +1,6 @@
+title: //span[@class="title"]
+body: //div[@class="article"]
+strip_id_or_class: anzeige
+strip_id_or_class: "block infobox"
+
+test_url: http://www.zeit.de/wissen/2011-02/temponauten-zeitreise?page=all

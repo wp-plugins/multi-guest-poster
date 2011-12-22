@@ -1,0 +1,5 @@
+title: id('fsArticle_article')/h1
+# Ideally, the body should be the id('fsArticle_article')/p[@class='summary'] AND the id('news_article_content')
+body: id('fsArticle_article')
+convert_double_br_tags: yes
+test_url: http://www.version2.dk/artikel/17069-amerikansk-hit-investor-er-vild-med-danske-net-ivaerksaettere

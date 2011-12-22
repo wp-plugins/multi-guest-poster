@@ -1,0 +1,3 @@
+strip_image_src:http://a.abcnews.com/images
+strip://div[@class="rel_container g_4"]
+test_url: http://abcnews.go.com/Politics/newt-gingrich-rocky-rollout-presidential-campaign-recover/story?id=13632744

@@ -1,0 +1,4 @@
+body: //div[@id = 'main-content']
+strip: //div[@class = 'bargo']
+strip: //div[@class = 'tf']
+test_url: http://thenextweb.com/apps/2010/10/23/new-nyc-way-ipad-app-is-a-stylish-innovative-guide-to-the-big-apple/

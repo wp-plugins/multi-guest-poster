@@ -1,0 +1,8 @@
+# Carlo Zottmann, carlo@zottmann.org
+
+strip_id_or_class: bc
+strip_id_or_class: utilities
+strip_id_or_class: list-supporting
+strip_id_or_class: yrail
+strip_id_or_class: urail
+test_url: http://www.vanityfair.com/politics/features/2011/05/egypt-revolutionaries-201105

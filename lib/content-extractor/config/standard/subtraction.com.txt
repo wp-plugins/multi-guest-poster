@@ -1,0 +1,25 @@
+# A simpler alternative would be to use body-lead as the body.
+# However, this removes the author and date, which we want to keep. 
+
+body: //div[@class='day']
+
+# take out the bit saying 'body'
+strip: //div[@class='body-lead']/div[@class='info-label']
+
+# remove duplicate of the title
+strip: //div[@class='day']/h2[1]
+
+# remove the time posted
+strip: //div[@class='day']/div[@class='post-info'][1]
+
+# remove categories (tags)
+strip: //div[@class='day']/div[@class='post-info'][3]
+
+# take out that plus sign at the bottom of the post
+strip: //div[@id='terminator']
+
+# prune, otherwise the author is removed
+prune: no
+
+
+test_url: http://www.subtraction.com/2011/02/01/unnecessary-explanations

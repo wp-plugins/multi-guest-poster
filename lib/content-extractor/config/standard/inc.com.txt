@@ -1,0 +1,10 @@
+strip: //h3[@class = 'relatedarticles']
+strip: //ul[@class = 'relatedlinks']
+strip: //div[@id = 'topbar']
+strip: //p[@class = 'imagecredit']
+strip: //div[@id = 'breadcrumb']
+strip: //div[@class = 'pager']
+strip: //a[@class = 'lightbox']
+strip: //div[@id = 'incsharebox']
+body: //div[@id= 'articlecontent']
+test_url: http://www.inc.com/news/articles/201103/the-best-time-of-day-to-make-big-decisions.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+inc%2Fheadlines+%28Inc.com+Headlines%29

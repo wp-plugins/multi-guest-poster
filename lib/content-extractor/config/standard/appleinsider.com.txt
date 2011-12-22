@@ -1,0 +1,5 @@
+title: //p[@class='title']
+body: //td[@class='bod']
+strip_id_or_class: title
+strip_id_or_class: minor
+test_url: http://www.appleinsider.com/articles/10/07/17/rim_nokia_respond_to_apples_antennagate_press_conference.html

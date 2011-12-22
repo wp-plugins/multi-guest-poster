@@ -1,0 +1,20 @@
+body: //div[@class="post-body"]
+
+# Remove login/comment text
+strip: //*[(@class="presence_control_external smalltype")]
+
+# Remove print header
+strip: //div[@id='printhead']/h1
+
+# Remove 'content is restricted'
+strip: //div[@id='agegate_IDHERE']
+
+# Remove follow text
+strip: //*[(@class="permalink_ads")]
+
+# Remove view/comment count
+strip: //div[@id='wrapper']/div[2][@class='postmeta_permalink_wrapper']/div[1][@class='postmeta_permalink']/div[2][@class='pm_line']
+
+# Remove contact text
+strip: //div[@id='wrapper']/div[1][@class='content permalink']/p[6][@class='contactinfo']
+test_url: http://lifehacker.com/5670967/how-to-sync-your-calendar-colors-between-google-calendar-and-ios&article=87078776

@@ -1,0 +1,5 @@
+body: //div[@class='panel-wrapper']
+strip: //span[@class='titulosHomePublicidad']
+strip: //div[@id='TitTop5Der']
+
+test_url: http://www.gatopardo.com/ReportajesGP.php?R=41

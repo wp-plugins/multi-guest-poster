@@ -1,0 +1,8 @@
+title: substring-after(//title, 'Right:')
+body: //div[starts-with(@class, 'post ')]
+body: //div[@class = 'post-body']
+tidy: no
+convert_double_br_tags: yes
+strip: //h3[@class = 'post-title']
+strip_comments: no
+test_url: http://www.fivethirtyeight.com/2010/07/does-rnc-have-structural-problems.html

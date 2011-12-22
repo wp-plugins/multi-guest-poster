@@ -1,0 +1,2 @@
+body: //*[@id = 'storytext']
+test_url: http://www.fanfiction.net/s/6497403/1/Spartan_Love

@@ -1,0 +1,25 @@
+# set body
+tidy: no
+body: //div[@id='spArticleColumn']
+
+# set title
+strip: //div[@id='spArticleColumn']/h1
+strip: //div[@id='spArticleColumn']/h2
+
+# remove captions
+strip: //*/span[@class='spPicLayerText']
+strip: //*/div[@class='spPanoPlayerPaneControl']
+strip: //*/div[@class='spCredit']
+strip: //*/div[@class='spCredit']/following-sibling::p
+
+# remove photogalleries and extras
+strip: //div[@class='spPhotoGallery']
+strip: //div[@class='spPhotoGallery']/following-sibling::br
+strip: //div[@class='spAssetAlignleft']
+
+# remove community functions
+strip: //div[@id='spSocialBookmark']
+strip: //div[contains(@class, 'spCommunityBox')]
+strip: //div[contains(@class, 'spArticleNewsfeedBox')]
+strip: //div[@class='spArticleCredit']
+test_url: http://www.spiegel.de/politik/ausland/0,1518,727770,00.html

@@ -1,0 +1,2 @@
+body://div[@id="story"]
+test_url: http://fm4.orf.at/stories/1666853/

@@ -1,0 +1,4 @@
+title: //h1[@class='storyheadline']
+body: //div[@class='storytext']
+
+test_url: http://money.cnn.com/2011/03/15/news/companies/steve_jobs_thought_process.fortune/index.htm?section=money_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fmoney_topstories+%28Top+Stories%29

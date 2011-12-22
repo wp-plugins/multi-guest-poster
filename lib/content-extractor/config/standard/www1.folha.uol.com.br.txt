@@ -1,0 +1,6 @@
+title://h1
+body://div[@id='articleNew']
+strip://h1
+strip://div[@class='openBox adslibraryArticle']
+strip_id_or_class:ad-180x150-1
+test_url: http://www1.folha.uol.com.br/tec/906173-glitch-promete-revolucionar-o-setor-de-jogos-em-nuvem.shtml

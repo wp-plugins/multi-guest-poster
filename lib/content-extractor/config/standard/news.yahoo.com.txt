@@ -1,0 +1,5 @@
+body: //div[@id='yn-story-main-media']//div[@class='photo-big']/a | //div[@class='byline']/cite | //div[@class='yn-story-content']
+strip: //cite[@class='vcard']/span
+tidy: no
+
+test_url: http://news.yahoo.com/s/nm/20110405/wl_nm/us_ivorycoast

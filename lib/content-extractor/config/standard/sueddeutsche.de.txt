@@ -1,0 +1,10 @@
+# Carlo Zottmann, carlo@zottmann.org
+# Johannes Stühler, johannes.stuhler@googlemail.com
+
+title: //h1
+strip_image_src: http://polpix.sueddeutsche.com
+
+strip: //div/a/img/following-sibling::span  |  //*[@id='relatedcontent']  |  //p[@class='bannerAnzeige']  |  //div[@class='articleheader']  |  //div[contains(@class,'galleried')]//a/following-sibling::*  | //p[string()='ANZEIGE']
+
+strip_id_or_class: articlepaging
+test_url: http://www.sueddeutsche.de/digital/kritik-an-apple-iphone-das-unberuehrbare-1.975744

@@ -1,0 +1,2 @@
+body: //div[@id = 'artikelContainer']
+test_url: http://3voor12.vpro.nl/artikelen/artikel/44098584

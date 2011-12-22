@@ -1,0 +1,2 @@
+title: //span[@class='mainarttitle']
+test_url: http://www.forbes.com/forbes/2011/0509/technology-frog-design-jan-chipchase-ethnographer-birth-cool_print.html

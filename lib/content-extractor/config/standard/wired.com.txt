@@ -1,0 +1,6 @@
+title: //h1
+body: //div[@class='entry']
+prune: no
+strip_image_src: icon_page.gif
+single_page_link: //a[@class='contentjumpall']
+test_url: http://www.wired.com/reviews/2010/11/wdtv_livehub/

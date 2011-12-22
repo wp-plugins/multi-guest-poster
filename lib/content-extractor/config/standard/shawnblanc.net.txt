@@ -1,0 +1,4 @@
+strip: //*[(@class = "secondary")]
+strip: //*[(@class = "endmeta")]
+strip: //*[(@class = "block first")]
+test_url: http://shawnblanc.net/2008/01/coda-the-one-window-wonder/

@@ -1,0 +1,11 @@
+# set body
+body: //div[@class='story']
+
+# set title
+title: //h3
+strip: //div[@class='story']/h3
+
+# remove clutter
+strip: //div[@class='titlebar_top']
+strip: //p[@class='infostamp']
+test_url: http://www.macrumors.com/2010/11/10/apple-debuts-new-apple-tv-and-itunes-movie-content-in-japan/

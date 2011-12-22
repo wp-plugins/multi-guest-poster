@@ -1,0 +1,9 @@
+body: //img[@class="holding"] | //div[@id='main-content']//div[@class='story-body']
+prune: no
+strip_id_or_class: related
+strip_id_or_class: page-bookmark-links-head
+strip: //h1[@class='story-header']
+strip_id_or_class: hyper
+strip_id_or_class: story-feature
+strip_id_or_class: comment-form
+test_url: http://www.bbc.co.uk/news/world-europe-12982923

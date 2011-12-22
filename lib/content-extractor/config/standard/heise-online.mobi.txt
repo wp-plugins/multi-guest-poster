@@ -1,0 +1,2 @@
+body: //div[@class='meldung_wrapper']
+test_url: http://heise-online.mobi/newsticker/meldung/Graphen-soll-Akku-Ladezeit-drastisch-senken-1039923.html

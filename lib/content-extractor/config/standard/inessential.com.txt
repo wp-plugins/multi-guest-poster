@@ -1,0 +1,5 @@
+body: //div[@class='weblogPost']
+
+# remove duplication of article title
+strip: //h3[1]
+test_url: http://inessential.com/2011/03/02/the_return_of_netnewswire_lite

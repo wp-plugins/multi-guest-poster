@@ -1,0 +1,14 @@
+# Title without site name
+title: //div[@id='site']/div[5][@class='holder']/div[1][@class='hBlock']/div[1][@class='sglCol article']/h3
+
+# Remove duplicate title from text
+strip: //div[@id='site']/div[5][@class='holder']/div[1][@class='hBlock']/div[1][@class='sglCol article']/h3
+
+# Remove article tools
+strip: //*[(@class = "articleUtils clearfix")]
+
+# Remove local info
+strip: //*[(@class = "localInfo")]
+strip: //*[(@class = "classhd")]
+strip: //*[(@id = "classFoot")]
+test_url: http://www.stalbansreview.co.uk/news/8467395.Cuts_inspire_economy_fears_in_St_Albans/

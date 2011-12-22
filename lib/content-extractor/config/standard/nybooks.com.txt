@@ -1,0 +1,7 @@
+strip_id_or_class: sIFR-alternate
+title: //div[@id='page-title-wrapper']/div[@id='page-title']/h2
+title: //div[@id='article-body']/h2
+strip: //div[@id='article-body']/h2
+body: //div[@id='article-body']
+
+test_url: http://www.nybooks.com/articles/archives/2010/aug/19/crisis-euro/

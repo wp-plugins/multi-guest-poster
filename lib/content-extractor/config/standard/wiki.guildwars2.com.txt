@@ -1,0 +1,6 @@
+title: //h1
+body: //div[@id = 'content']
+strip_id_or_class: editsection
+strip_id_or_class: toc
+prune: no
+test_url: http://wiki.guildwars2.com/wiki/Guardian

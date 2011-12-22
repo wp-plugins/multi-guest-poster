@@ -1,0 +1,9 @@
+body: //div[@id='left_col']
+strip_id_or_class: toolbox
+strip_id_or_class: story_features
+
+
+# Can't figure out how to get the title out of the body.
+title: //div[@id='left_col']/h1
+
+test_url: http://www.stuff.co.nz/national/politics/3930344/PM-issues-challenge

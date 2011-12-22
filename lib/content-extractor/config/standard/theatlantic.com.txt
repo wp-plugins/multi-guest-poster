@@ -1,0 +1,4 @@
+title: //div[@id='article']/h1
+
+body: //div[@id='article']
+test_url: http://www.theatlantic.com/technology/archive/2011/04/want-to-see-how-crazy-a-bot-run-market-can-be/237773/

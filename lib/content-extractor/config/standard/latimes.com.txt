@@ -1,0 +1,4 @@
+strip: //div[@id="tugs_story_display"]
+strip: //div[@id="search_overlay"]
+strip: //div[@id="adv_search"]
+test_url: http://www.latimes.com/news/opinion/commentary/la-oe-gartonash-wilders-20110512,0,2876761.story

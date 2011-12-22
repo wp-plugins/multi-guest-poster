@@ -1,0 +1,10 @@
+title://h1[@property="dc.title"]
+strip://div[@class="relative primary-slot padding-top img-border gallery-container photo-wrapper"]
+strip://div[@class="gallery-caption border-bottom relative"]
+strip://div[@id="wp-column six end"]
+strip://div[@class="hidden"]
+strip://div[@class="module component todays-paper-module curved"]
+strip://div[@class="module component live-qa curved img-border"]
+strip://div[@class="module component newsletter-signup curved"]
+strip://div[@class="module featured-stories component curved img-border"]
+test_url: http://www.washingtonpost.com/national/economy/us-should-sell-assets-like-gold-to-get-out-of-debt-economists-say/2011/05/12/AFIvmI4G_story.html?hpid=z3

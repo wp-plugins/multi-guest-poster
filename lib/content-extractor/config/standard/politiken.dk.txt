@@ -1,0 +1,5 @@
+title: //h1[contains(@class, 'stor-type')]
+body: //div[@id='art-body']
+strip: //p/b/../a[@id]/..
+
+test_url: http://politiken.dk/politik/article1019105.ece

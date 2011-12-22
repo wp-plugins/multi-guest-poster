@@ -1,0 +1,4 @@
+title: //h1[@class='headline3']
+body: //div[@id='one']//div[contains(@class, 'image')] | //div[@id='bodytext']
+
+test_url: http://www.modernghana.com/news/323765/1/039ghost039-teachers-removed-salaries-allowances-p.html

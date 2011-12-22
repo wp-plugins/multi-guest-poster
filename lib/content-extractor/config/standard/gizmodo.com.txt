@@ -1,0 +1,9 @@
+body: //div[@class="post-body"]
+
+# Remove print header
+strip: //div[@id='printhead']/h1
+
+# Remove 'content is restricted'
+strip: //div[@id='agegate_IDHERE']
+
+test_url: http://gizmodo.com/#!5782060/this-beer-should-be-product-placement-for-the-next-tron-movie
